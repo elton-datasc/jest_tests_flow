@@ -1,0 +1,19 @@
+{
+  "name": "my-node-project",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  },
+  "type": "module",
+  "description": "Projeto simples com soma e subtração, testado com Jest e CI/CD com GitHub Actions.",
+  "directories": {
+    "test": "tests"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
